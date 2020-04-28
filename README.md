@@ -1,4 +1,4 @@
-[HEROKU SITE for React App](https://svaidya-csci3916-hw5-updated.herokuapp.com/)
+[HEROKU SITE for React App](https://svaidya-csci3916-hw5-updated.herokuapp.com/).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
